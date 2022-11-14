@@ -1,2 +1,10 @@
-# awesome_protocol_economy
-🧱⛓ 𝗯𝗹𝗼𝗰𝗸𝗰𝗵𝗮𝗶𝗻𝘀 𝗽𝗿𝗼𝘁𝗼𝗰𝗼𝗹 𝗱𝗲𝘀𝗶𝗴𝗻, 𝗶𝗻𝗰𝗲𝗻𝘁𝗶𝘃𝗲𝘀, 𝗴𝗮𝗺𝗲 𝘁𝗵𝗲𝗼𝗿𝘆
+# protocol economy
+
+<br>
+
+
+## 🛵 design
+
+### proposer-builder separation
+
+* [barnabe.eth notes on pbs](https://barnabe.substack.com/p/pbs)
