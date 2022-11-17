@@ -10,7 +10,7 @@
 * [notes on pbs, by barnabe.eth](https://barnabe.substack.com/p/pbs)
   - thoughts on in-protocol pbs, market structure and allocation mechanism, whole vs. partial block building, block vs. slot auctions, inclusion lists, capturing true pbs value via consensus bid and protocol capture.
   
-* [](https://joncharbonneau.substack.com/p/decentralizing-the-builder-role)
+* [decentralizing the builder role, by j. charbonneau](https://joncharbonneau.substack.com/p/decentralizing-the-builder-role)
 
 
 <br>
