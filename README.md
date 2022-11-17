@@ -34,3 +34,18 @@
 ### algorithmic game theory
 
 * [algorithmic game theory, by tim roughgarden](https://theory.stanford.edu/~tim/papers/cacm.pdf)
+
+
+<br>
+
+### inclusion lists
+
+* [inclusion list economics](https://efdn.notion.site/Inclusion-list-economics-b0d61d0e21a74963a54448e48d9adc8a)
+
+
+<br>
+
+## 👾 resources
+
+* [CADlabs's ethereum economic model](https://github.com/CADLabs/ethereum-economic-model)
+
