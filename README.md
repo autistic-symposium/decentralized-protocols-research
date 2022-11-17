@@ -21,6 +21,7 @@
   - thoughts on how eip-1559 proposes a major change to ethereum's transaction fee mechanism, the market for ethereum transactions, incentive-compatible transaction fee mechanisms, and alternative designs.
 
 * [congestion control and eip1559, by barnabe.eth](https://barnabe.substack.com/p/congestion-control-and-eip1559)
+* [mev and eip1559](https://github.com/MEV-WAIFU-LABS/mev/blob/main/MEV_on_Ethereum/eip-1559.md)
 
 <br>
 
