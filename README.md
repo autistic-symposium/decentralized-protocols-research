@@ -1,4 +1,4 @@
-# protocol economy
+# notes and resources on protocol economy
 
 <br>
 
@@ -7,7 +7,8 @@
 
 ### proposer-builder separation
 
-* [notes on pbs, by barnabe.eth ](https://barnabe.substack.com/p/pbs)
+* [notes on pbs, by barnabe.eth](https://barnabe.substack.com/p/pbs)
+  - thoughts on in-protocol pbs, market structure and allocation mechanism, whole vs. partial block building, block vs. slot auctions, inclusion lists, capturing true pbs value via consensus bid and protocol capture.
 
 
 <br>
