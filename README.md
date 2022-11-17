@@ -27,3 +27,10 @@
 ### mev-smoothing
 
 * [burning mev through block proposer auctions, by domothy](https://ethresear.ch/t/burning-mev-through-block-proposer-auctions/14029)
+
+
+<br>
+
+### algorithmic game theory
+
+* [algorithmic game theory, by tim roughgarden](https://theory.stanford.edu/~tim/papers/cacm.pdf)
