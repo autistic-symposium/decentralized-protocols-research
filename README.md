@@ -2,8 +2,16 @@
 
 <br>
 
+## 🕹 game theory
 
-## 🛵 design
+
+
+<br>
+
+
+-----
+
+## 🛵 protocol design
 
 ### proposer-builder separation
 
@@ -47,7 +55,9 @@
 
 <br>
 
-## 👾 resources
+------
+
+## 👾 models
 
 * [CADlabs's ethereum economic model](https://github.com/CADLabs/ethereum-economic-model)
 
