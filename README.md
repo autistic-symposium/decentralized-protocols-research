@@ -21,7 +21,7 @@
   
 * [decentralizing the builder role, by j. charbonneau](https://joncharbonneau.substack.com/p/decentralizing-the-builder-role)
 
-* [columbia cryptoeconomics 2022](https://www.youtube.com/playlist?list=PLpktWkixc1gUqkyc1-iE6TT0RWQTBJELe)
+
 
 <br>
 
