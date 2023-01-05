@@ -5,6 +5,7 @@
 ## 🕹 game theory
 
 
+* [columbia cryptoeconomics workshop 2022](https://www.youtube.com/playlist?list=PLpktWkixc1gUqkyc1-iE6TT0RWQTBJELe)
 
 <br>
 
