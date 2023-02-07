@@ -21,6 +21,9 @@
   
 * [decentralizing the builder role, by j. charbonneau](https://joncharbonneau.substack.com/p/decentralizing-the-builder-role)
 
+* [exploring cryptokitties midwives](https://medium.com/block-science/exploring-cryptokitties-part-2-the-cryptomidwives-a0df37eb35a6)
+   - `giveBirth()` as an example of flawed economic incentive and randomization.
+
 
 
 <br>
