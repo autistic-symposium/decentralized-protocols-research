@@ -24,6 +24,8 @@
 * [exploring cryptokitties midwives](https://medium.com/block-science/exploring-cryptokitties-part-2-the-cryptomidwives-a0df37eb35a6)
    - `giveBirth()` as an example of flawed economic incentive and randomization.
 
+* [bookmark list for consensus researchers, by a. obadia](https://collective.flashbots.net/t/bookmarks-relevant-for-consensus-researchers/1204)
+   - nice list from flashbots on canonical papers on consensus
 
 
 <br>
