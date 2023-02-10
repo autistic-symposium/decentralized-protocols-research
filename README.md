@@ -7,7 +7,7 @@
 
 * [columbia cryptoeconomics workshop 2022](https://www.youtube.com/playlist?list=PLpktWkixc1gUqkyc1-iE6TT0RWQTBJELe)
 
-* [standford class on game theory](https://www.coursera.org/learn/game-theory-1#syllabus)
+* [standford class on game theory](https://www.coursera.org/learn/game-theory-1#syllabus) and [advanced course](https://www.coursera.org/learn/game-theory-2)
 
 <br>
 
