@@ -6,6 +6,11 @@
 
 <br>
 
+#### tries
+
+
+<br>
+
 
 #### light clients
 
@@ -18,3 +23,7 @@
 ----
 
 ### resources
+
+<br>
+
+* [understanding trie databases, by d. brickwood](https://medium.com/shyft-network/understanding-trie-databases-in-ethereum-9f03d2c3325d)
