@@ -26,4 +26,6 @@
 
 <br>
 
+* [geth code for stateDB](https://github.com/ethereum/go-ethereum/blob/d4d288e3f1cebb183fce9137829a76ddf7c6d12a/core/state/statedb.go#L64)
 * [understanding trie databases, by d. brickwood](https://medium.com/shyft-network/understanding-trie-databases-in-ethereum-9f03d2c3325d)
+
