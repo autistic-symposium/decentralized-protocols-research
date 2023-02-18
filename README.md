@@ -1,6 +1,16 @@
 # notes and resources on protocol economy
 
+
+## 🧱 blockchains
+
 <br>
+
+* [how blockchain works](blockchains)
+
+
+<br>
+
+---
 
 ## 🕹 game theory
 
