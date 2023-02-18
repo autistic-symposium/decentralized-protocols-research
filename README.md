@@ -4,10 +4,13 @@
 
 ## 🕹 game theory
 
+<br>
 
 * [columbia cryptoeconomics workshop 2022](https://www.youtube.com/playlist?list=PLpktWkixc1gUqkyc1-iE6TT0RWQTBJELe)
 
 * [standford class on game theory](https://www.coursera.org/learn/game-theory-1#syllabus) and [advanced course](https://www.coursera.org/learn/game-theory-2)
+
+* [censorship resistance in on-chain auctions, pai et al.](https://github.com/eljhfx/Decentralized-Auctions/blob/main/Censorship_Resistance_in_On-Chain_Auctions.pdf)
 
 <br>
 
@@ -15,6 +18,8 @@
 -----
 
 ## 🛵 protocol design
+
+<br>
 
 ### proposer-builder separation
 
