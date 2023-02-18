@@ -11,6 +11,7 @@
 * [standford class on game theory](https://www.coursera.org/learn/game-theory-1#syllabus) and [advanced course](https://www.coursera.org/learn/game-theory-2)
 
 * [censorship resistance in on-chain auctions, pai et al.](https://github.com/eljhfx/Decentralized-Auctions/blob/main/Censorship_Resistance_in_On-Chain_Auctions.pdf)
+  - single proposer blockchains are not ideal for holding time sensitive auctions when the number of potential bidders is large. collusion arrangements are extremely profitable for the colluding bidder but only marginally profitable for the proposer. order agnostics mechanism should solve mev.
 
 <br>
 
