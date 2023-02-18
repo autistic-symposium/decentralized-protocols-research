@@ -3,11 +3,9 @@
 
 <br>
 
-## 🧱 blockchains
 
-<br>
 
-* [how blockchain works](blockchains)
+### 👉 start with [how blockchain works](blockchains)
 
 
 <br>
