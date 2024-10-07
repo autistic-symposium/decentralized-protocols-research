@@ -26,5 +26,6 @@
 * **🧠 [applied cryptography](cryptography)**
 * **🔭 [yul and formal verification](yul)**
 * **💰 [economic models](economic_models)**
+* **🪻 [auction mechanisms](auction_mechanisms)**
 
 <br>
