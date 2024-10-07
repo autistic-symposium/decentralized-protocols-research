@@ -2,17 +2,10 @@
 
 <br>
 
-### in this repo:
 
-<br>
+#### zkps
 
-* **[zkps](zkps)**
-
-<br>
-
-----
-
-### external resources
+* **[check the autism-symposium's zero-knowledge-proofs repo](https://github.com/autistic-symposium/zero-knowledge-proofs-toolkit)**
 
 <br>
 
