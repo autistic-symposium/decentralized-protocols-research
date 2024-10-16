@@ -2,12 +2,15 @@
 
 <br>
 
+### tl; dr
+
+<br>
+
 * consensus protocol for ordering events in a distributed network under adversarial conditions (aka byzantine fault tolerant consenus, or atomic broadcast).
 * tendermint consists of two technical components: a blockchain consensus engine and a generic application interface, and works even if up to 1/3 of machines fail in arbitrary ways.
 * tendermint core (the consensus engine) performs BFT state machine replication (SMR) for arbitrary deterministic, finite state machines.
 * the application interface (abci) enables the transactions to be processed in any programming language.
 
-<br>
 <br>
 
 <p align="center">
@@ -16,13 +19,14 @@
 
 
 <br>
-<br>
 
 ---
 
-### references
+### external resources
 
+<br>
 
 * **[tendermint docs](https://docs.tendermint.com/)**
 * **[tenderming abci](https://github.com/tendermint/tendermint/tree/v0.34.x/abci)**
 * **[the latest gossip on BFT consensus, e. buchman et al.](https://arxiv.org/abs/1807.04938)**
+* **[cometbft (a distributed byzantine fault-tolerant derterministic state machine replication engine)](https://github.com/cometbft/cometbft)**
