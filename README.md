@@ -1,4 +1,4 @@
-## ⛓🧱 decentralized protocols
+## ⛓🧱 decentralized protocols: design research
 
 <br>
 
@@ -13,3 +13,4 @@
 * **[yul and formal verification](yul)**
 * **[economic models](economic_models)**
 * **[auction mechanisms](auction_mechanisms)**
+* **[security and privacy](security_and_privacy.md)**
