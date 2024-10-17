@@ -10,6 +10,7 @@
 * **[secret leader election, by ef](https://ethereum.org/en/roadmap/secret-leader-election/)**
 * **[single secret leader election, by dan boneh et al.](https://eprint.iacr.org/2020/025.pdf)**
 * **[post-quantum single secret leader electio, by dan boneh](https://www.youtube.com/watch?v=8caTi0JNGYA)**
+* **[private attacks in longest chain proof-of-stake protocols with ssle, by aarah azouv](https://arxiv.org/pdf/2109.07440)** (hiding the identity of the leader)
 
 <br>
 
