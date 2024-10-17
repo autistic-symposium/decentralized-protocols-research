@@ -22,6 +22,8 @@
 
 * **[a framework for constructing ssle from mpc, backes et al.](https://eprint.iacr.org/2022/1040.pdf)** (computational cost for N parties as low as O(N), garbled circuits, concerns over linear blow-up)
 
+* **[whisk, a practical shuffle-based SSLE protocol](https://ethresear.ch/t/whisk-a-practical-shuffle-based-ssle-protocol-for-ethereum/11763)** (ef's choice)
+
 <br>
 
 ---
