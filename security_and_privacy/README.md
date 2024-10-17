@@ -16,6 +16,16 @@
 
 ---
 
+### constructions
+
+<br>
+
+* **[a framework for constructing ssle from mpc, backes et al.](https://eprint.iacr.org/2022/1040.pdf)** (computational cost for N parties as low as O(N), garbled circuits, concerns over linear blow-up)
+
+<br>
+
+---
+
 ### leaderless consensus protocols
 
 <br>
